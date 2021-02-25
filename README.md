@@ -7,29 +7,24 @@ A series of so-called geofacets (similar to tile maps) using the famous [Warming
 ## World
 
 ![Warming Stripes for all countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_World_snap.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_World.pdf)
-
 ![Version of the Warming Stripes geofacet on a dark background](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_World_dark_snap.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_World_dark.pdf)
+[Lossless version (light)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_World_dark.pdf) | [Lossless version (dark)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_World.pdf)
 
 
 ## Africa
 
 ![Warming Stripes of African countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Africa.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Africa.pdf)
-
 ![Warming Stripes of African countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Africa_dark.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Africa_dark.pdf)
+[Lossless version (light)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Africa.pdf)
+ | [Lossless version (dark)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Africa_dark.pdf)
 
 
 
 ## The Americas
 
 ![Warming Stripes of African countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Americas.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Americas.pdf)
-
 ![Warming Stripes of African countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Americas_dark.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Americas_dark.pdf)
+[Lossless version (light)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Americas.pdf) | [Lossless version (dark)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Americas_dark.pdf)
 
 
 ## Asia
@@ -44,19 +39,15 @@ A series of so-called geofacets (similar to tile maps) using the famous [Warming
 ## Europe
 
 ![Warming Stripes of African countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Europe.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Europe.pdf)
-
 ![Warming Stripes of African countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Europe_dark.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Europe_dark.pdf)
+[Lossless version (light)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Europe.pdf) | [Lossless version (dark)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Europe_dark.pdf)
 
 
 ## Oceania
 
 ![Warming Stripes of African countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Oceania.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Oceania.pdf)
-
 ![Warming Stripes of African countries as geofacet](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Oceania_dark.png)  
-[Lossless version](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Oceania_dark.pdf)
+[Lossless version (light)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Oceania.pdf) | [Lossless version (dark)](https://raw.githubusercontent.com/Z3tt/WarmingStripesGeofacet/main/plots/WarmingStripesGeofacet_Oceania_dark.pdf)
 
 
 ## Global Version without Country Labels:
